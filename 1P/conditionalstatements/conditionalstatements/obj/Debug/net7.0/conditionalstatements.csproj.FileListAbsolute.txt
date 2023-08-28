@@ -1,0 +1,14 @@
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\conditionalstatements\conditionalstatements\bin\Debug\net7.0\conditionalstatements.exe
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\conditionalstatements\conditionalstatements\bin\Debug\net7.0\conditionalstatements.deps.json
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\conditionalstatements\conditionalstatements\bin\Debug\net7.0\conditionalstatements.runtimeconfig.json
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\conditionalstatements\conditionalstatements\bin\Debug\net7.0\conditionalstatements.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\conditionalstatements\conditionalstatements\bin\Debug\net7.0\conditionalstatements.pdb
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\conditionalstatements\conditionalstatements\obj\Debug\net7.0\conditionalstatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\conditionalstatements\conditionalstatements\obj\Debug\net7.0\conditionalstatements.AssemblyInfoInputs.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\conditionalstatements\conditionalstatements\obj\Debug\net7.0\conditionalstatements.AssemblyInfo.cs
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\conditionalstatements\conditionalstatements\obj\Debug\net7.0\conditionalstatements.csproj.CoreCompileInputs.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\conditionalstatements\conditionalstatements\obj\Debug\net7.0\conditionalstatements.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\conditionalstatements\conditionalstatements\obj\Debug\net7.0\refint\conditionalstatements.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\conditionalstatements\conditionalstatements\obj\Debug\net7.0\conditionalstatements.pdb
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\conditionalstatements\conditionalstatements\obj\Debug\net7.0\conditionalstatements.genruntimeconfig.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\conditionalstatements\conditionalstatements\obj\Debug\net7.0\ref\conditionalstatements.dll
