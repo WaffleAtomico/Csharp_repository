@@ -1,0 +1,14 @@
+﻿WriteLine("---------------------------------------------------------------------------------");
+WriteLine($"{"Type", 0}{"Byte(s) of memory", 25}{"min", 20}{"MAX", 32}");
+WriteLine("---------------------------------------------------------------------------------");
+WriteLine($"sbyte {sizeof(sbyte),10}{sbyte.MinValue, 33}{sbyte.MaxValue, 32}");
+WriteLine($"byte {sizeof(byte),11}{byte.MinValue, 33}{byte.MaxValue, 32}");
+WriteLine($"short {sizeof(short),10}{short.MinValue, 33}{short.MaxValue, 32}");
+WriteLine($"ushort {sizeof(ushort),9}{ushort.MinValue, 33}{ushort.MaxValue, 32}");
+WriteLine($"int {sizeof(int),12}{int.MinValue, 33}{int.MaxValue, 32}");
+WriteLine($"uint {sizeof(uint),11}{uint.MinValue, 33}{uint.MaxValue, 32}");
+WriteLine($"long {sizeof(long),11}{long.MinValue, 33}{long.MaxValue, 32}");
+WriteLine($"float {sizeof(float),10}{float.MinValue, 33}{float.MaxValue, 32}");
+WriteLine($"double {sizeof(double),9}{double.MinValue, 33}{double.MaxValue, 32}");
+WriteLine($"decimal {sizeof(decimal),9}{decimal.MinValue, 33}{decimal.MaxValue, 31}");
+WriteLine("---------------------------------------------------------------------------------");

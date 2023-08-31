@@ -1,0 +1,14 @@
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\castingYconverting\castingYconverting\bin\Debug\net7.0\castingYconverting.exe
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\castingYconverting\castingYconverting\bin\Debug\net7.0\castingYconverting.deps.json
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\castingYconverting\castingYconverting\bin\Debug\net7.0\castingYconverting.runtimeconfig.json
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\castingYconverting\castingYconverting\bin\Debug\net7.0\castingYconverting.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\castingYconverting\castingYconverting\bin\Debug\net7.0\castingYconverting.pdb
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\castingYconverting\castingYconverting\obj\Debug\net7.0\castingYconverting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\castingYconverting\castingYconverting\obj\Debug\net7.0\castingYconverting.AssemblyInfoInputs.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\castingYconverting\castingYconverting\obj\Debug\net7.0\castingYconverting.AssemblyInfo.cs
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\castingYconverting\castingYconverting\obj\Debug\net7.0\castingYconverting.csproj.CoreCompileInputs.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\castingYconverting\castingYconverting\obj\Debug\net7.0\castingYconverting.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\castingYconverting\castingYconverting\obj\Debug\net7.0\refint\castingYconverting.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\castingYconverting\castingYconverting\obj\Debug\net7.0\castingYconverting.pdb
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\castingYconverting\castingYconverting\obj\Debug\net7.0\castingYconverting.genruntimeconfig.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\castingYconverting\castingYconverting\obj\Debug\net7.0\ref\castingYconverting.dll

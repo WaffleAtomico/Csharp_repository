@@ -1,0 +1,14 @@
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\1era\tabla\bin\Debug\net7.0\tabla.exe
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\1era\tabla\bin\Debug\net7.0\tabla.deps.json
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\1era\tabla\bin\Debug\net7.0\tabla.runtimeconfig.json
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\1era\tabla\bin\Debug\net7.0\tabla.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\1era\tabla\bin\Debug\net7.0\tabla.pdb
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\1era\tabla\obj\Debug\net7.0\tabla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\1era\tabla\obj\Debug\net7.0\tabla.AssemblyInfoInputs.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\1era\tabla\obj\Debug\net7.0\tabla.AssemblyInfo.cs
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\1era\tabla\obj\Debug\net7.0\tabla.csproj.CoreCompileInputs.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\1era\tabla\obj\Debug\net7.0\tabla.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\1era\tabla\obj\Debug\net7.0\refint\tabla.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\1era\tabla\obj\Debug\net7.0\tabla.pdb
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\1era\tabla\obj\Debug\net7.0\tabla.genruntimeconfig.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\1era\tabla\obj\Debug\net7.0\ref\tabla.dll
