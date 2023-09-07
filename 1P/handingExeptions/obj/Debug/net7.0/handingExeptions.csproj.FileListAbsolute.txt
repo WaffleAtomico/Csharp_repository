@@ -1,0 +1,14 @@
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\handingExeptions\obj\Debug\net7.0\handingExeptions.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\handingExeptions\obj\Debug\net7.0\handingExeptions.AssemblyInfoInputs.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\handingExeptions\obj\Debug\net7.0\handingExeptions.AssemblyInfo.cs
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\handingExeptions\obj\Debug\net7.0\handingExeptions.csproj.CoreCompileInputs.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\handingExeptions\bin\Debug\net7.0\handingExeptions.exe
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\handingExeptions\bin\Debug\net7.0\handingExeptions.deps.json
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\handingExeptions\bin\Debug\net7.0\handingExeptions.runtimeconfig.json
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\handingExeptions\bin\Debug\net7.0\handingExeptions.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\handingExeptions\bin\Debug\net7.0\handingExeptions.pdb
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\handingExeptions\obj\Debug\net7.0\handingExeptions.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\handingExeptions\obj\Debug\net7.0\refint\handingExeptions.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\handingExeptions\obj\Debug\net7.0\handingExeptions.pdb
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\handingExeptions\obj\Debug\net7.0\handingExeptions.genruntimeconfig.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\handingExeptions\obj\Debug\net7.0\ref\handingExeptions.dll

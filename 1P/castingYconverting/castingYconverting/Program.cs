@@ -57,4 +57,19 @@ WriteLine($"b is double and is {b}");
 // presentar en hexa, convertir a string de como quedo
 // no numero de lineas, sale como en 10 o menos
 
-// 3ero
+//Parce
+
+// int count = int.Parse("abc"); //system format exeption
+int count0 = int.Parse("13"); //parse no tiene ninguna forma de saber si esta bn o no
+
+//por eso se usa su mejor forma tryParce
+
+WriteLine("How many students there are?");
+string? input = ReadLine();
+if(int.TryParse(input, out int count1)){ //la variable out hace que se haga posible almacenar una variable en donde guardar el resultado
+    //se pudo o no w?
+    //zy
+    WriteLine($"There are {count1} students");
+}else{
+    WriteLine($"Couldnt convert");
+}

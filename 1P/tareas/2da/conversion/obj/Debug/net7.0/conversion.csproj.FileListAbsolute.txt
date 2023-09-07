@@ -1,0 +1,14 @@
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\2da\conversion\bin\Debug\net7.0\conversion.exe
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\2da\conversion\bin\Debug\net7.0\conversion.deps.json
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\2da\conversion\bin\Debug\net7.0\conversion.runtimeconfig.json
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\2da\conversion\bin\Debug\net7.0\conversion.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\2da\conversion\bin\Debug\net7.0\conversion.pdb
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\2da\conversion\obj\Debug\net7.0\conversion.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\2da\conversion\obj\Debug\net7.0\conversion.AssemblyInfoInputs.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\2da\conversion\obj\Debug\net7.0\conversion.AssemblyInfo.cs
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\2da\conversion\obj\Debug\net7.0\conversion.csproj.CoreCompileInputs.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\2da\conversion\obj\Debug\net7.0\conversion.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\2da\conversion\obj\Debug\net7.0\refint\conversion.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\2da\conversion\obj\Debug\net7.0\conversion.pdb
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\2da\conversion\obj\Debug\net7.0\conversion.genruntimeconfig.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\tareas\2da\conversion\obj\Debug\net7.0\ref\conversion.dll
