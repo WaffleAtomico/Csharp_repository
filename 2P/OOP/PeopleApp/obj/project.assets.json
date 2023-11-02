@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "classlib/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/classlib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/classlib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "classlib/1.0.0": {
+      "type": "project",
+      "path": "../../Libraries/classlib/classlib.csproj",
+      "msbuildProject": "../../Libraries/classlib/classlib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "classlib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\penil\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\penil\\OneDrive\\Escritorio\\CETI\\PROGRAMACION\\Avanzada\\Git\\2P\\OOP\\PeopleApp\\PeopleApp.csproj",
+      "projectName": "PeopleApp",
+      "projectPath": "C:\\Users\\penil\\OneDrive\\Escritorio\\CETI\\PROGRAMACION\\Avanzada\\Git\\2P\\OOP\\PeopleApp\\PeopleApp.csproj",
+      "packagesPath": "C:\\Users\\penil\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\penil\\OneDrive\\Escritorio\\CETI\\PROGRAMACION\\Avanzada\\Git\\2P\\OOP\\PeopleApp\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\penil\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "C:\\Users\\penil\\OneDrive\\Escritorio\\CETI\\PROGRAMACION\\Avanzada\\Git\\2P\\Libraries\\classlib\\classlib.csproj": {
+              "projectPath": "C:\\Users\\penil\\OneDrive\\Escritorio\\CETI\\PROGRAMACION\\Avanzada\\Git\\2P\\Libraries\\classlib\\classlib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.401\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

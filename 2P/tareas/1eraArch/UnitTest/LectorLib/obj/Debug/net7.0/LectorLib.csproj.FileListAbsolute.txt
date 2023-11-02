@@ -1,0 +1,11 @@
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\tareas\1eraArch\UnitTest\LectorLib\obj\Debug\net7.0\LectorLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\tareas\1eraArch\UnitTest\LectorLib\obj\Debug\net7.0\LectorLib.AssemblyInfoInputs.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\tareas\1eraArch\UnitTest\LectorLib\obj\Debug\net7.0\LectorLib.AssemblyInfo.cs
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\tareas\1eraArch\UnitTest\LectorLib\obj\Debug\net7.0\LectorLib.csproj.CoreCompileInputs.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\tareas\1eraArch\UnitTest\LectorLib\bin\Debug\net7.0\LectorLib.deps.json
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\tareas\1eraArch\UnitTest\LectorLib\bin\Debug\net7.0\LectorLib.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\tareas\1eraArch\UnitTest\LectorLib\bin\Debug\net7.0\LectorLib.pdb
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\tareas\1eraArch\UnitTest\LectorLib\obj\Debug\net7.0\LectorLib.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\tareas\1eraArch\UnitTest\LectorLib\obj\Debug\net7.0\refint\LectorLib.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\tareas\1eraArch\UnitTest\LectorLib\obj\Debug\net7.0\LectorLib.pdb
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\tareas\1eraArch\UnitTest\LectorLib\obj\Debug\net7.0\ref\LectorLib.dll

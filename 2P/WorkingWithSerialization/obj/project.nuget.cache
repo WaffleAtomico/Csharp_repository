@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "/G9aLozs2v2s5IaeDdxAaNAbnD8XS4p+bJlVg1KKLfpL2CFdB48acp+olkXBrqHGrp9bPps6PcPvG6JWhK7QLA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\penil\\OneDrive\\Escritorio\\CETI\\PROGRAMACION\\Avanzada\\Git\\2P\\WorkingWithSerialization\\WorkingWithSerialization.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\penil\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

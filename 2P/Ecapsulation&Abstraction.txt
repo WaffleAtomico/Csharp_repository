@@ -1,0 +1,63 @@
+Encapsulation
+Clases have fielsds (Properties), methods.
+Bank account, name, balance, date
+it represente the type of access 
+The main objective: "Control what can access"
+
+Composition:
+class car: N doors, N wheels, N Passengers, Color, Plaques, Motor Type, Name, accelerate()
+
+what does is make the object
+
+Aggregation:
+Combine is the keyword what is Combined between my classes
+The car doesnt need a Person object to work
+But a Person can SIT in the Car object 
+Class car: accelerate
++
+Class Person: push the accelerator
+=
+Car runs 
+
+SOLID with coco
+S: Single responsability
+//You should search about it
+
+Inheritance: (Herencia)
+Need a BASE class and a secondary class or MULTIPLE CHILD classes (derived classes)
+Just two types, Public and protected here comes The "Encapsulation"
+
+
+Abstraction:
+
+ABSTRACTION class
+The particular things of the abstract classes: It cannot give us an object
+The methods of an abstract class doesnt have a body
+Cause they use the Inheritance
+To do something called Override
+They're called VIRTUAL methods
+
+We can Override these methods with inheritance: if in a Bank there're 3 types o clients, 
+3 are payed but 3 are payed diferent, but is dificult of useless to make a method for the pay
+And you can override the method for every type of user/clients
+
+Class FinanceEmployees
+{
+abstract void Pay();
+}
+
+// AKA Interfaces
+
+Class Cashier: FinanceEmployees
+{
+    override Pay() //it isnt duplicated
+    {
+        . . . . 
+    }
+}
+
+Polymorphism:
+Is the abulity for a derived class to override an action 
+from a superclass or a baseclass whitch is the same
+
+Easier to sustain support in the code

@@ -1,0 +1,63 @@
+Almacen
+
+
+Users
+	Almacenista
+	Profesores
+	Alumnos
+	Proveedores
+	Coordinador
+
+
+Cosas
+	Osciloscopios
+		Digital
+		analog
+	Multimetros
+	Cautin
+	Pinzas
+	Dearmadores
+	Ponchadoras
+	Eliminadores
+
+Numero de serie
+Numero serie almacen
+
+
+
+Permisos -> tiene una cajita ? (Se puede llenar la cajita, guarda las solicitudes)
+	 -> Tiene un tiempo minimo y tiempo maximo
+	 -> Credenciales necesarias 
+	 -> Salon asignado
+	
+	para los profes
+	Bitacora de E/S
+	horarios
+
+	Se puede hacer una lista de espera depende del horario
+
+
+
+B O Order
+	Que se rompio
+	Cuando se rompio
+	
+B O Material
+B O Product
+
+
+Entrega del equipo al alumno
+	Cosas que pidio
+	Recibo
+	Credencial
+
+Entrega al almacen
+	Las cosas que entrego
+	Hora a la que se entrego
+	Credencial devuelta
+
+Mantenimiento
+	Saber cuando es el mantenimiento
+
+	
+

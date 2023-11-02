@@ -1,0 +1,11 @@
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\unitTesting\calculatorlib\bin\Debug\net7.0\calculatorlib.deps.json
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\unitTesting\calculatorlib\bin\Debug\net7.0\calculatorlib.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\unitTesting\calculatorlib\bin\Debug\net7.0\calculatorlib.pdb
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\unitTesting\calculatorlib\obj\Debug\net7.0\calculatorlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\unitTesting\calculatorlib\obj\Debug\net7.0\calculatorlib.AssemblyInfoInputs.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\unitTesting\calculatorlib\obj\Debug\net7.0\calculatorlib.AssemblyInfo.cs
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\unitTesting\calculatorlib\obj\Debug\net7.0\calculatorlib.csproj.CoreCompileInputs.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\unitTesting\calculatorlib\obj\Debug\net7.0\calculatorlib.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\unitTesting\calculatorlib\obj\Debug\net7.0\refint\calculatorlib.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\unitTesting\calculatorlib\obj\Debug\net7.0\calculatorlib.pdb
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\1P\unitTesting\calculatorlib\obj\Debug\net7.0\ref\calculatorlib.dll

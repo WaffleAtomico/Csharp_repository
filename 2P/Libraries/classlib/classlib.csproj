@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netstandard2.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <LangVersion>11</LangVersion>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Using Include="System.Console" Static ="true"/> 
+  </ItemGroup>
+
+  <!-- Netstandard vs netcore
+  Netstandard contains all de libraries with C# 11
+  And
+  Netcore contains Netstandard and sql, blazor, mongo, ling, etc etc etc etc
+  When you install Netstandard you download all the other libraries
+
+  the good practices tell us to leave the TargetFramework with net7.0, but with this proyect we're going to
+  use net2.0 -->
+
+</Project>

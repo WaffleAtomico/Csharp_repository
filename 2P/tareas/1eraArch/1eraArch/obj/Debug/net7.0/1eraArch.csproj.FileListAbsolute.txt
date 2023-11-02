@@ -1,0 +1,14 @@
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\tareas\1eraArch\1eraArch\bin\Debug\net7.0\1eraArch.exe
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\tareas\1eraArch\1eraArch\bin\Debug\net7.0\1eraArch.deps.json
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\tareas\1eraArch\1eraArch\bin\Debug\net7.0\1eraArch.runtimeconfig.json
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\tareas\1eraArch\1eraArch\bin\Debug\net7.0\1eraArch.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\tareas\1eraArch\1eraArch\bin\Debug\net7.0\1eraArch.pdb
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\tareas\1eraArch\1eraArch\obj\Debug\net7.0\1eraArch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\tareas\1eraArch\1eraArch\obj\Debug\net7.0\1eraArch.AssemblyInfoInputs.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\tareas\1eraArch\1eraArch\obj\Debug\net7.0\1eraArch.AssemblyInfo.cs
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\tareas\1eraArch\1eraArch\obj\Debug\net7.0\1eraArch.csproj.CoreCompileInputs.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\tareas\1eraArch\1eraArch\obj\Debug\net7.0\1eraArch.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\tareas\1eraArch\1eraArch\obj\Debug\net7.0\refint\1eraArch.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\tareas\1eraArch\1eraArch\obj\Debug\net7.0\1eraArch.pdb
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\tareas\1eraArch\1eraArch\obj\Debug\net7.0\1eraArch.genruntimeconfig.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\tareas\1eraArch\1eraArch\obj\Debug\net7.0\ref\1eraArch.dll

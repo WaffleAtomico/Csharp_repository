@@ -3,7 +3,7 @@ string? input = ReadLine();
     int i = int.Parse(input);
     Byte[] ranum = new Byte[i]; //hacemos el arreglo de bytes
     Random.Shared.NextBytes(ranum); //le asignamos valores aleatorios
-String F = "Fizz";
+String F = "Fizz"; //almacenamos los textos en variables para cambios mas rapidos y faciles
 String B = "Buzz";
 foreach (var item in ranum)
 {
@@ -16,12 +16,4 @@ foreach (var item in ranum)
     {
         WriteLine(F);
     }
-}    
-
-
-
-    
-
-
-
-
+}

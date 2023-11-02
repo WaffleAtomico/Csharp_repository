@@ -1,0 +1,51 @@
+[
+    {
+        "DateOfBirth": "2005-03-02T00:00:00",
+        "AngerLevel": 0,
+        "Name": "Isaac",
+        "lastname": "Chavez",
+        "Salary": 30000.0,
+        "Children": null
+    },
+    {
+        "DateOfBirth": "2006-05-14T00:00:00",
+        "AngerLevel": 0,
+        "Name": "Carolina",
+        "lastname": "Prian",
+        "Salary": 400000.0,
+        "Children": null
+    },
+    {
+        "DateOfBirth": "2005-02-20T00:00:00",
+        "AngerLevel": 0,
+        "Name": "Samantha",
+        "lastname": "Valadez",
+        "Salary": 20000.0,
+        "Children": null
+    },
+    {
+        "DateOfBirth": "2003-09-12T00:00:00",
+        "AngerLevel": 0,
+        "Name": "Paco",
+        "lastname": "Juarez",
+        "Salary": 8000.0,
+        "Children": [
+            {
+                "DateOfBirth": "2023-10-01T00:00:00",
+                "AngerLevel": 0,
+                "Name": "Ana",
+                "lastname": "Velasquez",
+                "Salary": 0.0,
+                "Children": null
+            },
+            {
+                "DateOfBirth": "2019-11-23T00:00:00",
+                "AngerLevel": 0,
+                "Name": "Hector",
+                "lastname": "Velasquez",
+                "Salary": 0.0,
+                "Children": null
+            }
+        ]
+    }
+]

@@ -1,0 +1,14 @@
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\WorkingWithFilesSystem\WorkingWithFileSystem\bin\Debug\net7.0\WorkingWithFileSystem.exe
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\WorkingWithFilesSystem\WorkingWithFileSystem\bin\Debug\net7.0\WorkingWithFileSystem.deps.json
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\WorkingWithFilesSystem\WorkingWithFileSystem\bin\Debug\net7.0\WorkingWithFileSystem.runtimeconfig.json
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\WorkingWithFilesSystem\WorkingWithFileSystem\bin\Debug\net7.0\WorkingWithFileSystem.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\WorkingWithFilesSystem\WorkingWithFileSystem\bin\Debug\net7.0\WorkingWithFileSystem.pdb
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\WorkingWithFilesSystem\WorkingWithFileSystem\obj\Debug\net7.0\WorkingWithFileSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\WorkingWithFilesSystem\WorkingWithFileSystem\obj\Debug\net7.0\WorkingWithFileSystem.AssemblyInfoInputs.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\WorkingWithFilesSystem\WorkingWithFileSystem\obj\Debug\net7.0\WorkingWithFileSystem.AssemblyInfo.cs
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\WorkingWithFilesSystem\WorkingWithFileSystem\obj\Debug\net7.0\WorkingWithFileSystem.csproj.CoreCompileInputs.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\WorkingWithFilesSystem\WorkingWithFileSystem\obj\Debug\net7.0\WorkingWithFileSystem.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\WorkingWithFilesSystem\WorkingWithFileSystem\obj\Debug\net7.0\refint\WorkingWithFileSystem.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\WorkingWithFilesSystem\WorkingWithFileSystem\obj\Debug\net7.0\WorkingWithFileSystem.pdb
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\WorkingWithFilesSystem\WorkingWithFileSystem\obj\Debug\net7.0\WorkingWithFileSystem.genruntimeconfig.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\WorkingWithFilesSystem\WorkingWithFileSystem\obj\Debug\net7.0\ref\WorkingWithFileSystem.dll
