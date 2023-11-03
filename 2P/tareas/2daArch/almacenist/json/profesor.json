@@ -1,0 +1,53 @@
+[
+    {
+        "PrUsrName": "Coco GODD",
+        "PrNomi": "PSIcEnJ0LDOTyl0TjsQ7Yg==",
+        "PrPWD": "+9wo3cYnZwC5wSJbleSNhA==",
+        "PrCourse": [
+            "Avanzada 2",
+            "Electronica"
+        ],
+        "PrDivition": "Software"
+    },
+    {
+        "PrUsrName": "Angel Bambrila",
+        "PrNomi": "JvHPRCv0L2mtiXlIpFN85Q==",
+        "PrPWD": "DLjO0pULyiAZ/Ifgo8qykQ==",
+        "PrCourse": [
+            "Cybersecurity",
+            "Programacion avanzada"
+        ],
+        "PrDivition": "Software"
+    },
+    {
+        "PrUsrName": "Andres Molina",
+        "PrNomi": "A9P4UpTmK0rX+/YVSzWnHA==",
+        "PrPWD": "c+Jxyr+xI3H2E44XSGMqFw==",
+        "PrCourse": [
+            "Embebidos 1",
+            "Programacion 1",
+            "Programacion 2"
+        ],
+        "PrDivition": "Electronica"
+    },
+    {
+        "PrUsrName": "Tonito Lozano",
+        "PrNomi": "22/8dK0dgWyQQgBtwGS7Aw==",
+        "PrPWD": "14czJpUsyRrxg6RacAx3mQ==",
+        "PrCourse": [
+            "Sistemas digitales 2",
+            "Sistemas embebdios 1"
+        ],
+        "PrDivition": "Electronica"
+    },
+    {
+        "PrUsrName": "Ricardo Solorzano",
+        "PrNomi": "zniAtGI97P06ZkVzoP6HOQ==",
+        "PrPWD": "t8NeCp4jxhf6P3hoBc9OBA==",
+        "PrCourse": [
+            "Redes",
+            "Redes 2"
+        ],
+        "PrDivition": "Software"
+    }
+]

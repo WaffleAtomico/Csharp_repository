@@ -1,0 +1,17 @@
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\AvanceProj\login\bin\Debug\net7.0\login.exe
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\AvanceProj\login\bin\Debug\net7.0\login.deps.json
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\AvanceProj\login\bin\Debug\net7.0\login.runtimeconfig.json
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\AvanceProj\login\bin\Debug\net7.0\login.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\AvanceProj\login\bin\Debug\net7.0\login.pdb
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\AvanceProj\login\bin\Debug\net7.0\Spectre.Console.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\AvanceProj\login\obj\Debug\net7.0\login.csproj.AssemblyReference.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\AvanceProj\login\obj\Debug\net7.0\login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\AvanceProj\login\obj\Debug\net7.0\login.AssemblyInfoInputs.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\AvanceProj\login\obj\Debug\net7.0\login.AssemblyInfo.cs
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\AvanceProj\login\obj\Debug\net7.0\login.csproj.CoreCompileInputs.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\AvanceProj\login\obj\Debug\net7.0\login.csproj.CopyComplete
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\AvanceProj\login\obj\Debug\net7.0\login.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\AvanceProj\login\obj\Debug\net7.0\refint\login.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\AvanceProj\login\obj\Debug\net7.0\login.pdb
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\AvanceProj\login\obj\Debug\net7.0\login.genruntimeconfig.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\AvanceProj\login\obj\Debug\net7.0\ref\login.dll

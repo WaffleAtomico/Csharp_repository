@@ -3,6 +3,7 @@ using PA17F.Shared;
 using static System.Environment;
 using static System.IO.Path;
 
+
 //con lo estatico solo puedes acceder a uno en especial, o sea, solo se puede usar Path
 //Mas no IO
 

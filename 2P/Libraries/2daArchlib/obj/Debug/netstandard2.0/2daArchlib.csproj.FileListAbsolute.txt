@@ -1,0 +1,10 @@
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\Libraries\2daArchlib\obj\Debug\netstandard2.0\2daArchlib.csproj.AssemblyReference.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\Libraries\2daArchlib\obj\Debug\netstandard2.0\2daArchlib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\Libraries\2daArchlib\obj\Debug\netstandard2.0\2daArchlib.AssemblyInfoInputs.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\Libraries\2daArchlib\obj\Debug\netstandard2.0\2daArchlib.AssemblyInfo.cs
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\Libraries\2daArchlib\obj\Debug\netstandard2.0\2daArchlib.csproj.CoreCompileInputs.cache
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\Libraries\2daArchlib\bin\Debug\netstandard2.0\2daArchlib.deps.json
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\Libraries\2daArchlib\bin\Debug\netstandard2.0\2daArchlib.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\Libraries\2daArchlib\bin\Debug\netstandard2.0\2daArchlib.pdb
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\Libraries\2daArchlib\obj\Debug\netstandard2.0\2daArchlib.dll
+C:\Users\penil\OneDrive\Escritorio\CETI\PROGRAMACION\Avanzada\Git\2P\Libraries\2daArchlib\obj\Debug\netstandard2.0\2daArchlib.pdb

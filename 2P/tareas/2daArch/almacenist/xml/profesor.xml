@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProfesor xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Profesor>
+    <PrUsrName>Coco GODD</PrUsrName>
+    <PrNomi>PSIcEnJ0LDOTyl0TjsQ7Yg==</PrNomi>
+    <PrPWD>+9wo3cYnZwC5wSJbleSNhA==</PrPWD>
+    <PrCourse>
+      <string>Avanzada 2</string>
+      <string>Electronica</string>
+    </PrCourse>
+    <PrDivition>Software</PrDivition>
+  </Profesor>
+  <Profesor>
+    <PrUsrName>Angel Bambrila</PrUsrName>
+    <PrNomi>JvHPRCv0L2mtiXlIpFN85Q==</PrNomi>
+    <PrPWD>DLjO0pULyiAZ/Ifgo8qykQ==</PrPWD>
+    <PrCourse>
+      <string>Cybersecurity</string>
+      <string>Programacion avanzada</string>
+    </PrCourse>
+    <PrDivition>Software</PrDivition>
+  </Profesor>
+  <Profesor>
+    <PrUsrName>Andres Molina</PrUsrName>
+    <PrNomi>A9P4UpTmK0rX+/YVSzWnHA==</PrNomi>
+    <PrPWD>c+Jxyr+xI3H2E44XSGMqFw==</PrPWD>
+    <PrCourse>
+      <string>Embebidos 1</string>
+      <string>Programacion 1</string>
+      <string>Programacion 2</string>
+    </PrCourse>
+    <PrDivition>Electronica</PrDivition>
+  </Profesor>
+  <Profesor>
+    <PrUsrName>Tonito Lozano</PrUsrName>
+    <PrNomi>22/8dK0dgWyQQgBtwGS7Aw==</PrNomi>
+    <PrPWD>14czJpUsyRrxg6RacAx3mQ==</PrPWD>
+    <PrCourse>
+      <string>Sistemas digitales 2</string>
+      <string>Sistemas embebdios 1</string>
+    </PrCourse>
+    <PrDivition>Electronica</PrDivition>
+  </Profesor>
+  <Profesor>
+    <PrUsrName>Ricardo Solorzano</PrUsrName>
+    <PrNomi>zniAtGI97P06ZkVzoP6HOQ==</PrNomi>
+    <PrPWD>t8NeCp4jxhf6P3hoBc9OBA==</PrPWD>
+    <PrCourse>
+      <string>Redes</string>
+      <string>Redes 2</string>
+    </PrCourse>
+    <PrDivition>Software</PrDivition>
+  </Profesor>
+</ArrayOfProfesor>

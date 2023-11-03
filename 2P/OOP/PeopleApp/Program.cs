@@ -50,24 +50,24 @@ arg1: wachi.DateOfBirth);
 //Tipo de retorno y parametros que recibe
 
 Person Jordi = new();
-int answer =Jordi.MethodIWantToCall("Alfred");
-//alterminativamente puedo crear und elegado 
-//que haga match con la fimra del metodo que voy a mandar a llamar
-//Sirve para crearle una variable que mande a llamar una funcion sin tener que escribir toda la funcion
-WriteLine(answer);
-DelegateWithMatchingSignature d = new(Jordi.MethodIWantToCall);
-//se crea una instancia del delegado
-int answer2 = d("Isaac");
-WriteLine(answer2);
+// int answer =Jordi.MethodIWantToCall("Alfred");
+// //alterminativamente puedo crear und elegado 
+// //que haga match con la fimra del metodo que voy a mandar a llamar
+// //Sirve para crearle una variable que mande a llamar una funcion sin tener que escribir toda la funcion
+// WriteLine(answer);
+// DelegateWithMatchingSignature d = new(Jordi.MethodIWantToCall);
+// //se crea una instancia del delegado
+// int answer2 = d("Isaac");
+// WriteLine(answer2);
 
 
-//Un envento es un trigger
+// //Un envento es un trigger
 
-Jordi.Shout = Jordi_Shout; //le pasas la funcion que quieres usar y lo busca por la fimra
-// wachi.Shout = Jordi_Shout;
-//
-Jordi.Poke(); //1
-Jordi.Poke(); //2
-Jordi.Poke(); //3
-Jordi.Poke(); //4
-Jordi.Poke(); //5     
+// Jordi.Shout = Jordi_Shout; //le pasas la funcion que quieres usar y lo busca por la fimra
+// // wachi.Shout = Jordi_Shout;
+// //
+// Jordi.Poke(); //1
+// Jordi.Poke(); //2
+// Jordi.Poke(); //3
+// Jordi.Poke(); //4
+// Jordi.Poke(); //5     

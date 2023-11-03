@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "ECAdAeX+RXt8oTsIVuhu9C7B2OoGJZ9p2gtS+4DuvVGnuzHYtJcFWC8+5C/dJt9/YXW6gzpAePEcOdYiul5q0w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\penil\\OneDrive\\Escritorio\\CETI\\PROGRAMACION\\Avanzada\\Git\\2P\\AvanceProj\\login\\login.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\penil\\.nuget\\packages\\spectre.console\\0.47.0\\spectre.console.0.47.0.nupkg.sha512",
+    "C:\\Users\\penil\\.nuget\\packages\\system.memory\\4.5.5\\system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}

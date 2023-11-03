@@ -13,7 +13,7 @@
   <ItemGroup>
   <!-- En donde teniamos a Persona -->
     <ProjectReference Include="../Libraries\classlib\classlib.csproj" />
-    </ItemGroup>
+  </ItemGroup>
   <ItemGroup>
     <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
   </ItemGroup>

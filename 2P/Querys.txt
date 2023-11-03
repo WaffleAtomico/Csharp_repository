@@ -1,0 +1,63 @@
+select c.CustomerId, c.CompanyName, count(od.ProductId) AS nomber
+ from CUSTOMERS AS c 
+ INNER JOIN ORDERS AS o ON c.CustomerId = o.CustomerId
+ INNER JOIN "order details" as od ON o.OrderId = od.OrderId
+ LIMIT 5
+
+
+
+SELECT p.ProductName, p.UnitPrice, c.CategoryName FROM Products AS p
+INNER JOIN categories AS c ON p.CategoryId = c.CategoryId
+ORDER BY c.CategoryName
+
+//mal
+
+SELECT CategoryName, count(c.CategoryId) FROM categories AS c ORDER BY c.CategoryName 
+
+SELECT p.ProductName, p.UnitPrice, c.CategoryName FROM Products AS p
+INNER JOIN categories AS c ON p.CategoryId = c.CategoryId
+ORDER BY p.UnitPrice DESC
+
+//dentro del inner join hacer un select que agarre el valor maximo de unitprice
+
+SELECT MAX(UnitPrice) FROM "Order Details"
+
+
+
+select distinct c.CategoryName,
+(SELECT SUM(UnitPrice) FROM "Order details" as od 
+INNER JOIN orders AS o ON od.OrderId = o.OrderId 
+INNER JOIN )
+AS revenue
+from Categories AS c
+INNER JOIN products AS p ON c.CategoryId = p.CategoryId
+INNER JOIN "Order Details" AS od ON p.ProductId = od.ProductId
+
+
+select distinct c.CategoryName,
+(SELECT SUM(UnitPrice) FROM "Order details" as od 
+INNER JOIN products AS p ON od.ProductId =  p.ProductId
+INNER JOIN categories AS c ON  )
+AS revenue
+from Categories AS c
+INNER JOIN products AS p ON c.CategoryId = p.CategoryId
+INNER JOIN "Order Details" AS od ON p.ProductId = od.ProductId
+
+
+
+
+
+SELECT distinct ProductName FROM products AS p
+left join "Order Details" as od ON p.ProductId = od.ProductId
+NOT IN(od.ProductId);
+//bn
+
+
+
+select distinct e.EmployeeID, e.FirstName, e.LastName FROM employees AS e
+INNER JOIN Orders AS o ON e.EmployeeId = o.EmployeeId
+left join "Order Details" as od ON o.OrderId = od.OrderId
+NOT IN(od.ProductId);
+//bn
+
+

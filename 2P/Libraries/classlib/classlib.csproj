@@ -10,7 +10,7 @@
   <ItemGroup>
     <Using Include="System.Console" Static ="true"/> 
   </ItemGroup>
-
+</Project>
   <!-- Netstandard vs netcore
   Netstandard contains all de libraries with C# 11
   And
@@ -20,4 +20,4 @@
   the good practices tell us to leave the TargetFramework with net7.0, but with this proyect we're going to
   use net2.0 -->
 
-</Project>
+

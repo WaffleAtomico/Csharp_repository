@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "LJ0MuRde8WviPdD2Rb+vIgLQxaaRkDgedQ1w3qlLoUh01ZSj8BXoRWvOAzO5vP8mMIe8IXUFoAHNSSXvtAwenw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\penil\\OneDrive\\Escritorio\\CETI\\PROGRAMACION\\Avanzada\\Git\\2P\\tareas\\2daArch\\almacenist\\almacenist.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\penil\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
