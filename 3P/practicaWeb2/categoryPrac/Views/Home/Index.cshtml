@@ -1,0 +1,43 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+@model WorkingWithEFCore.AutoGen.Category
+<table class="table">
+    <thead>
+        <tr>
+            <th scope="col">CategoryId</th>
+            <th scope="col">CategoryName</th>
+            <th scope="col">Description</th>
+            <th scope="col">Picture</th>
+            <th scope="col">Delete</th>
+        </tr>
+    </thead>
+    <tr>
+        <thead>
+            @foreach (var c in ViewBag.Category)
+            {
+                <tr>
+                    <thead>
+                        <th scope="col">@c.CategoryId</th>
+                        <th scope="col">@c.CategoryName</th>
+                        <th scope="col">@c.Description</th>
+                        <th scope="col">@c.Picture</th>
+                        <th scope="col">
+                            <form asp-action="DeleteCategory" asp-controller="Home">
+                                <input type="hidden" asp-for="CategoryId" value="@c.CategoryId" />
+                                 <input type="image" href="http://localhost:5192/" src="https://cdn-icons-png.flaticon.com/512/3976/3976956.png" alt="Submit" width="30" height="30">
+                            </form>
+                        </th>
+                    </thead>
+                </tr>
+            }
+</table>
+
+<form asp-action="CreateCategory" asp-controller="Home">
+    <label>New Category</label>
+    <div class="form-group col-md-6">
+        <input asp-for="CategoryName" placeholder="Name" class="form-control" required>
+        <input asp-for="Description" placeholder="Description" class="form-control" required>
+    </div>
+    <button type="submit" class="btn btn-primary">SAVE</button>
+</form>

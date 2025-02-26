@@ -1,0 +1,197 @@
+@page
+@* Asi es como mapea todas las paginas *@
+
+@using WorkingWithEFCore.AutoGen
+
+
+
+@functions {
+    public string? DayName { get; set; }
+    public long CategoryIdMax { get; set; }
+    public void onGet()
+    {
+        Model.DayName = DateTime.Now.ToString("dddd");
+        //Model mapea todo el codigo para poderlo usar dentro del html
+    }
+
+    public long NextId()
+    { //se puede mejorar para evitar el error de que si no hay registro alguno
+        using (Northwind db = new())
+        {
+            long maxCategoryId = db.Categories.Max(c => c.CategoryId) + 1;
+            //Model.CategoryIdMax = maxCategoryId;
+            return maxCategoryId;
+        }
+    }
+}
+
+<div class="jumbotron">
+    <h1 class="display-3">WELCOME TO WEB FUCKING SHIT!!!!</h1>
+    <p class="lead">Its True web sucks :33333 :B</p>
+    <p class="lead">Web sucks btw its @Model.DayName!</p>
+    <a class="btn btn-primary" href="www.ase1.ceti.mx">Yes it does, it sucks fkn web</a>
+    <table class="table">
+        <thead>
+            <tr>
+                <th scope="col">CategoryId</th>
+                <th scope="col">CategoryName</th>
+                <th scope="col">Description</th>
+                <th scope="col">Picture</th>
+                <th scope="col">Delete</th>
+            </tr>
+        </thead>
+        <tr>
+            <thead>
+                @using (Northwind db = new())
+                {
+                    foreach (var c in db.Categories)
+                    {
+                        <tr>
+                            <thead>
+                                <th scope="col">@c.CategoryId</th>
+                                <th scope="col">@c.CategoryName</th>
+                                <th scope="col">@c.Description</th>
+                                <th scope="col">@c.Picture</th>
+                                <th scope="col">
+                                    <button href="http://localhost:5050" onclick=delCategory(@c.CategoryId)>
+                                        <img width="30px" height="30px"
+                                            src="https://cdn-icons-png.flaticon.com/512/3976/3976956.png" alt="">
+                                    </button>
+                                </th>
+                            </thead>
+                        </tr>
+                    }
+                }
+    </table>
+    <div style="display: flex; gap: 10px;">
+        <div class="input-group mb-3">
+            <input type="text" id="txtCatName" name="txtCatName" class="form-control" placeholder="CategoryName"
+                aria-label="CategoryName" aria-describedby="basic-addon1">
+        </div>
+
+        <div class="input-group mb-3">
+            <input type="text" id="txtCatDesc" name="txtCatDesc" class="form-control" placeholder="Description"
+                aria-label="Description" aria-describedby="basic-addon1">
+        </div>
+        <button class="btn btn-outline-success" href="http://localhost:5050" onclick=addCategory(@NextId())>Add</button>
+    </div>
+    <input asp-for="<Expression Name>">
+    <br>
+    <br>
+</div>
+
+
+
+
+@* el boton debd de mandar a llamar a una ruta
+En donde
+
+Creo que debo de mandar llamar una ruta o una api desde html
+y asi no funciona
+
+
+///////////////
+
+
+input asp-for
+
+href=suppliers
+suppliers
+
+supliers csshtml
+
+es mejor hacer las cosas por backend y front
+y solo agarras lo del back en el front
+
+cada cosa en su lado
+
+onpost en cualquier submit va a mandar a llamar a esa funcion
+
+blazor
+*@
+
+
+
+
+@* <script>
+function addCategory(NextId) {
+
+var categoryName = document.getElementById('txtCatName').value;
+var description = document.getElementById('txtCatDesc').value;
+console.log(NextId);
+console.log(categoryName);
+console.log(description);
+urlcrea = 'http://localhost:5050/Controllers/controller/Create';
+console.log(urlcrea);
+console.log(isValidUrl(urlcrea))
+fetch('http://localhost:5050/Controllers/controller/Create', {
+method: 'POST',
+headers: {
+'Content-Type': 'application/json',
+},
+body: JSON.stringify({
+categoryId: NextId,
+categoryName: categoryName,
+description: description,
+Picture: null
+}),
+})
+.then(response => response.json())
+.then(data => {
+console.log('Success:', data);
+})
+.catch((error) => {
+console.error('Error:', error);
+}); 
+
+ const responseText = await response.text();
+console.log(responseText); 
+}
+ </script> 
+
+
+ <script>
+function delCategory(CategoryId) {
+console.log(CategoryId);
+urldel = 'http://localhost:5050/Controllers/controller/Delete?id=' + CategoryId;
+console.log(urldel);
+console.log(isValidUrl(urldel))
+fetch(urldel, {
+method: 'DELETE',
+headers: {
+'Content-Type': 'application/json'
+}
+})
+.then(response => response.json())
+.then(data => {
+console.log('Success:', data);
+})
+.catch((error) => {
+console.error('Error:', error);
+});
+}
+</script> 
+
+
+<script>
+    function isValidUrl(url) {
+        try {
+            const parsedUrl = new URL(url);
+            return fetch(parsedUrl.href, { method: 'HEAD' })
+                .then(response => {
+                    if (response.ok) {
+                        return true; // La URL es válida y el recurso está disponible
+                    } else {
+                        return false; // La URL es válida pero el recurso no está disponible
+                    }
+                })
+                .catch(error => {
+                    return false; // La URL es válida pero se produjo un error al intentar acceder al recurso
+                });
+        } catch (error) {
+            return false; // La URL no es válida
+        }
+    }
+
+</script>
+*@

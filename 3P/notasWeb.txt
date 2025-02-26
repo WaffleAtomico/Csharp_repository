@@ -1,0 +1,74 @@
+Todos los lenguajes de alto nivel tienen un framework para web
+Python tiene jango
+
+React, Angular sirven para entornos web
+
+C# tiene blazor
+
+ASP NET es lo que usamos, y Razor es parte de esto
+
+
+"iisExpress": {
+      "applicationUrl": "http://localhost:3851",
+      "sslPort": 44301
+    }
+
+Crea un contenedor en donde corre la maquina web
+
+
+
+Como funciona el magico mundo de la Internet >:D
+
+Cliente - servidor
+Se supone que ambas son computadoras
+
+La diferencia es entre que el cliente solo puede enviar request
+Y el servidor una response
+
+Las request tiene Headers y body
+Depende de la request si usa
+
+request indepotente?  https://blog.hubspot.com/website/idempotent-api
+
+
+Las request tiene verbos
+GET
+POST
+UPDATE/PUT
+DELETE
+
+El cliente manda la request con un verbos
+Si lo encuentra o no, da una respuesta
+Estan catalogadas por numeros de 100 en 100
+
+
+100 - si
+200 - algo nuevo created at
+300 - casi no se usan
+400 - 404
+500 - 502 Kumbia error 
+
+
+La web es bonita :)
+
+Una API es exponer en una URL algo
+una variable, un proceso, idk, algo asi
+
+
+blazor pages puede combinar codigo con paginas web
+
+
+Practica
+
+
+Mostrar todos los campos de category *
+
+y una columna para un bote de basura
+Se debe refrescar 
+
+Hasta abajo estara add category
+
+Add y delete
+
+
+blazorserver

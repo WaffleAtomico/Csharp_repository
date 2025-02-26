@@ -45,8 +45,8 @@ Son funciones que hacen la query por mi
 */
 
 using WorkingWithEFCore;
-    Northwind db = new();
-    WriteLine($"Provider: {db.Database.ProviderName}"); //el proveedor es sqlite, si se usa sqlserver apareceria
+Northwind db = new();
+WriteLine($"Provider: {db.Database.ProviderName}"); //el proveedor es sqlite, si se usa sqlserver apareceria
 
 //Querys
 
@@ -59,17 +59,143 @@ using WorkingWithEFCore;
 // ListProducts(new int[] {071});
 
 
-ListProducts();
-    // Use of Create
-    var resultAdd = AddProduct(categoryId: 6, productName: "La Pizza de Don Cangrejo", price: 500M);
-    AddProduct(categoryId: 6, productName: "La Pizza de Don Cangrejo", price: 500M);
-    AddProduct(categoryId: 6, productName: "La Pizza de Don Cangrejo", price: 500M);
-    AddProduct(categoryId: 6, productName: "La Pizza de Don Cangrejo", price: 500M);
-    if(resultAdd.affected == 1)
-    {
-        WriteLine($"Add product succesful with ID: {resultAdd.ProductId}");
-    }
-ListProducts(new int[] {resultAdd.ProductId});
+// var productMedia = db.Products.Select(product => product.Discontinued).media();
+// var productMediana = db.Products.Select(product => product.Discontinued).mediana();
+// var productModa = db.Products.Select(product => product.Discontinued).moda();
+
+// var CategoryMedia = db.Categories.Select(c =>c.Description).media();
+
+var productMedia = db.Products.Select(product => product.ProductName).media();
+var productMediana = db.Products.Select(product => product.ProductName).mediana();
+var productModa = db.Products.Select(product => product.ProductName).moda();
+
+WriteLine($"Media: {productMedia.ToString("F4")}\nMediana: {productMediana} \nModa: \nCaracter + repetido: "
++$"{productModa.OrderByDescending(c => c.Value).First().Key}\nNumero de veces que se repite: "
++$"{productModa.Max(m =>m.Value)}");
+
+//paginator
+
+// WriteLine();
+
+//     bool flag = true;
+//     sbyte pag = 1;
+//     int actualpag = 1;
+//     WriteLine("Paginado: ");
+//     WriteLine("key 1 = 1");
+//     WriteLine("key 2 = 5");
+//     WriteLine("key 3 = 10");
+//     WriteLine("key 4 = 25");
+//     WriteLine("key 5 = 30");
+
+//     char paginado;
+//     paginado = Console.ReadKey().KeyChar;
+//     switch (paginado)
+//     {
+//         case '1':
+//             {
+//                 pag = 1;
+//                 break;
+//             }
+//         case '2':
+//             {
+//                 pag = 5;
+//                 break;
+//             }
+//         case '3':
+//             {
+//                 pag = 10;
+//                 break;
+//             }
+//         case '4':
+//             {
+//                 pag = 25;
+//                 break;
+//             }
+//         case '5':
+//             {
+//                 pag = 30;
+//                 break;
+//             }
+//         default:
+//             pag = 1;
+//             break;
+//     }
+//     int startsection = 0, endsection = pag;
+//     ListProductsPaginator(null, startsection, endsection);
+//     for (int i = 0; i <= 75; i++)
+//     {
+//         Write("-");
+//     }
+//     WriteLine();
+
+//     Write($"{pag,-17} {actualpag}/{77 / pag, -24}T:77");
+
+//     ReadLine();
+//     Clear();
+
+//     while (flag)
+//     {
+//         if (Console.ReadKey().Key == ConsoleKey.RightArrow)
+//         {
+//             if (endsection + pag >= 77)
+//             {
+//                 startsection = endsection - pag;
+//                 endsection = 77;
+//                 actualpag = 77;
+//             }
+//             else
+//             {
+//                 startsection = endsection;
+//                 endsection = startsection + pag;
+//                 actualpag++;
+//             }
+//         }
+//         else if (Console.ReadKey().Key == ConsoleKey.LeftArrow)
+//         {
+//             if (startsection - pag <= 0)
+//             {
+//                 startsection = 0;
+//                 endsection = pag;
+//                 actualpag = 1;
+//             }
+//             else
+//             {
+//                 endsection = startsection;
+//                 startsection = endsection - pag;
+//                 actualpag--;
+//             }
+//         }
+//         if (pag == 1) { 
+//             ListProductsPaginator(null, endsection, endsection);
+//         }else
+//         {
+//             ListProductsPaginator(null, startsection, endsection);
+//         }
+//         for (int i = 0; i <= 75; i++)
+//         {
+//             Write("-");
+//         }
+//         WriteLine();
+//         Write($"{pag,-17} {actualpag}/{77 / pag, -24}T:77");
+
+//         ReadLine();
+//         Clear();
+//     }
+
+
+
+        ListProducts();
+            // Use of Create
+            var resultAdd = AddProduct(categoryId: 6, productName: "La Pizza de Don Cangrejo", price: 500M);
+            AddProduct(categoryId: 6, productName: "La Pizza de Don Cangrejo", price: 500M);
+            AddProduct(categoryId: 6, productName: "La Pizza de Don Cangrejo", price: 500M);
+            AddProduct(categoryId: 6, productName: "La Pizza de Don Cangrejo", price: 500M);
+            if(resultAdd.affected == 1)
+            {
+                WriteLine($"Add product succesful with ID: {resultAdd.ProductId}");
+            }
+        ListProducts(new int[] {resultAdd.ProductId});
+
 
 
 //update
@@ -82,31 +208,34 @@ if(resultUpdate.affected == 1)
 ListProducts(productsToHiglight: new[] {resultUpdate.prodctId});
 */
 
-//use betta update
-var resultUpdateBetter = UpdateProductPriceBetter(productNameStarWith: "La ", amount: 20M);
-if(resultUpdateBetter.affected >0)
-{
-    WriteLine("Increase product price succesful.");
-}
-ListProducts(resultUpdateBetter.prodctId);
+/*
+
+        //use betta update
+        var resultUpdateBetter = UpdateProductPriceBetter(productNameStarWith: "La ", amount: 20M);
+        if(resultUpdateBetter.affected >0)
+        {
+            WriteLine("Increase product price succesful.");
+        }
+        ListProducts(resultUpdateBetter.prodctId);
 
 
-//delete
+        //delete
 
-WriteLine("About to delete all products that start with 'La '");
-Write("Press Enter to conrinue : ");
-if(ReadKey(intercept: true).Key == ConsoleKey.Enter)
-{
-    int deleted = DeleteProductsBetter(productnameStartWith: "La ");
-    WriteLine($"{deleted} product(s) were deleted");
-}
-else
-{
-    WriteLine("Delete was canceled");
-}
+        WriteLine("About to delete all products that start with 'La '");
+        Write("Press Enter to conrinue : ");
+        if(ReadKey(intercept: true).Key == ConsoleKey.Enter)
+        {
+            int deleted = DeleteProductsBetter(productnameStartWith: "La ");
+            WriteLine($"{deleted} product(s) were deleted");
+        }
+        else
+        {
+            WriteLine("Delete was canceled");
+        }
 
-ListProducts();
+        ListProducts();
 
+*/
 
 /*
 Cuando se trata de bd, hay distintos tipos de carga == loads
@@ -146,11 +275,3 @@ Explicit loading
     Yo doy de alta todas las tablas al inicio
     O segun el tiempo que las necesito
 */
-
-
-
-//tenemos media hora para la practica de ahorita
-
-//a las 9 inicia
-
-//

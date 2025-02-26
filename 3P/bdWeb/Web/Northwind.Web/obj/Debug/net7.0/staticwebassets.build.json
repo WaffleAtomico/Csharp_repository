@@ -1,0 +1,19 @@
+{
+  "Version": 1,
+  "Hash": "mHQed0WY9S4kh09rkns+///7s3vfSyiHuzxsF+2V0kE=",
+  "Source": "Northwind.Web",
+  "BasePath": "_content/Northwind.Web",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Northwind.Web\\wwwroot",
+      "Source": "Northwind.Web",
+      "ContentRoot": "C:\\Users\\penil\\OneDrive\\Escritorio\\CETI\\PROGRAMACION\\Avanzada\\Git\\3P\\bdWeb\\Web\\Northwind.Web\\wwwroot\\",
+      "BasePath": "_content/Northwind.Web",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": []
+}
